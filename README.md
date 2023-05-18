@@ -26,7 +26,6 @@
   
   
 
-  <hr>
 <div align="left">
   
   
