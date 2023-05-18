@@ -1,4 +1,4 @@
-### Hi there 👋 I am Tsesang
+### Hi there 👋 
 
 <div align="center">
   
