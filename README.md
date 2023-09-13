@@ -2,8 +2,8 @@
   
 
 
-<div>
-👋 Hi, I'm [Your Name]
+
+👋 Hi, I'm Tsesang
 
 🌐 Full-Stack Web Developer | 🚀 Passionate about Creating Seamless Digital Experiences
 
@@ -14,9 +14,7 @@
 💼 I specialize in turning ideas into polished web applications.
 
 🔗 Let's connect and collaborate on exciting projects!
-</div>
-  </div>
-  </div>
+
   
 <!--
 **tsesang/tsesang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
