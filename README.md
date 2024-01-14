@@ -9,8 +9,6 @@
 
 🧠 Constantly exploring and learning new technologies to stay at the cutting edge of web development.
 
-💼 I specialize in turning ideas into polished web applications.
-
 🔗 Let's connect and collaborate on exciting projects!
 
   
