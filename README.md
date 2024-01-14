@@ -7,8 +7,6 @@
 
 🌐 Full-Stack Web Developer | 🚀 Passionate about Creating Seamless Digital Experiences
 
-🛠️ Tech Stack: JavaScript, React, Node.js, Express, Flask, Django, MongoDB, HTML/CSS, SQL, Python
-
 🧠 Constantly exploring and learning new technologies to stay at the cutting edge of web development.
 
 💼 I specialize in turning ideas into polished web applications.
