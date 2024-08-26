@@ -5,7 +5,7 @@
 
 👋 Hi,There   I'm Tsesang
 
-🌐 Full-Stack Web Developer | 🚀 Passionate about Creating Seamless Digital Experiences
+🌐 🚀 Passionate about Creating Seamless Digital Experiences
 
 🧠 Constantly exploring and learning new technologies to stay at the cutting edge of web development.
 
