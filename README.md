@@ -5,12 +5,6 @@
 
 👋 Hi,There   I'm Tsesang
 
-🌐 🚀 Passionate about Creating Seamless Digital Experiences
-
-🧠 Constantly exploring and learning new technologies to stay at the cutting edge of web development.
-
-🔗 Let's connect and collaborate on exciting projects!
-
   
 <!--
 **tsesang/tsesang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
